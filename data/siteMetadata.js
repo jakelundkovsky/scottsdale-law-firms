@@ -1,7 +1,7 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
   title: 'Scottsdale Law Firms',
-  author: 'Tails Azimuth',
+  author: 'Jake Lundkovsky',
   headerTitle: 'Scottsdale Law Firms',
   description: 'A blog sharing information about Scottsdale Law Firms',
   language: 'en-us',
@@ -11,7 +11,7 @@ const siteMetadata = {
   // siteLogo: `${process.env.BASE_PATH || ''}/static/images/logo.png`,
   socialBanner: `${process.env.BASE_PATH || ''}/static/images/twitter-card.png`,
   // mastodon: 'https://mastodon.social/@mastodonuser',
-  email: 'contact@scottsdalelawfirms.com',
+  email: 'scottsdalelawfirms@gmail.com',
   // github: 'https://github.com',
   // x: 'https://twitter.com/x',
   // twitter: 'https://twitter.com/Twitter',
