@@ -14,3 +14,5 @@
 - article should use full sentences and avoid bullet points as much as possible, our goal is to entertain and educate the reader
 - output the article in markdown format, using proper headings and subheadings (only use h2 and below)
 - when you're writing the content of the article, please remove the part of the outline that you're writing about
+- when expanding on the outline, make sure to expand all bullet points where it makes sense to do so
+- when writing the article, make sure to use the word "you" a lot, as if you're writing directly to the reader
