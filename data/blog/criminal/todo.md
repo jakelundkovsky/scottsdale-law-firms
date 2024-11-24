@@ -1,4 +1,3 @@
-- [] Understanding Arizona Criminal Court Procedures: A Step-by-Step Guide
 - [] DUI Laws in Scottsdale: What You Need to Know in 2024
 - [] Drug Possession Charges in Arizona: Penalties and Defense Options
 - [] How to Choose the Right Criminal Defense Attorney
